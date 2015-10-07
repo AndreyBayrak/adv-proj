@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<advertisements>
+  <advertisement>
+    <name>Java Start</name>
+    <shortDesc>Курс Java</shortDesc>
+    <longDesc>Начальный курс Java Start</longDesc>
+    <phone>(044)232-65-48</phone>
+    <price>1250</price>
+    <photo>/home/andrey/Pictures/logo.png</photo>
+  </advertisement>
+  <advertisement>
+    <name>Java ООП</name>
+    <shortDesc>Курс Java</shortDesc>
+    <longDesc>Продвинутый курс Java ООП</longDesc>
+    <phone>(044)232-65-48</phone>
+    <price>3150</price>
+    <photo>/home/andrey/Pictures/logo.png</photo>
+  </advertisement>
+  <advertisement>
+    <name>Java Pro</name>
+    <shortDesc>Курс Java</shortDesc>
+    <longDesc>Продвинутый курс Java Pro</longDesc>
+    <phone>(044)232-65-48</phone>
+    <price>3450</price>
+    <photo>/home/andrey/Pictures/logo.png</photo>
+  </advertisement>
+</advertisements>
